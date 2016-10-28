@@ -48,6 +48,11 @@ public class ClassTwo {
         return c;
     }
 
+    public double power6(double a, double b) {
+        double c = Math.pow(a, b);
+        return c;
+    }
+
     public String concat(String a, String b) {
         String c = a+b;
         System.out.println("This line should be covered ");
