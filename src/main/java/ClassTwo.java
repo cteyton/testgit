@@ -18,40 +18,6 @@ public class ClassTwo {
         return c;
     }
 
-    public int division(int a, int b) {
-        int c = a / b;
-        return c;
-    }
-
-    public double power(double a, double b) {
-        double c = Math.pow(a, b);
-        return c;
-    }
-
-    public double power2(double a, double b) {
-        double c = Math.pow(a, b);
-        return c;
-    }
-
-    public double power3(double a, double b) {
-        double c = Math.pow(a, b);
-        return c;
-    }
-
-    public double power4(double a, double b) {
-        double c = Math.pow(a, b);
-        return c;
-    }
-
-    public double power5(double a, double b) {
-        double c = Math.pow(a, b);
-        return c;
-    }
-
-    public double power6(double a, double b) {
-        double c = Math.pow(a, b);
-        return c;
-    }
 
     public String concat(String a, String b) {
         String c = a+b;

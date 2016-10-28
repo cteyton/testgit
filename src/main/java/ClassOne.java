@@ -5,8 +5,6 @@ public class ClassOne {
 
     public void hello() {
         //I just add a comment
-        //I just add a comment
-        //I just add a comment
     }
 
     public boolean foo1() {
