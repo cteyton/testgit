@@ -31,12 +31,5 @@ public class ClassTDDNew4 {
         return true;
     }
 
-    public boolean foo8() {
-        return true;
-    }
-
-    public boolean foo9() {
-        return true;
-    }
 
 }
