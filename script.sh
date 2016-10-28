@@ -1,0 +1,9 @@
+#!/bin/bash
+
+mvn clean
+export JAVA_HOME=/usr/lib/jvm/java-6-openjdk-amd64
+mvn compile
+mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent test install -Pcoverage-per-test sonar:sonar -Dsonar.login=1a75ad76520b1472a76318b0c7497cb5b2d4dc6c -Dsonar.host.url=http://62.210.103.41:9000 -Dsonar.scm.provider=git -Dsonar.branch=master -Dsonar.language=java -Dsonar.java.coveragePlugin=jacoco -Dsonar.jacoco.reportMissing.force.zero=true -Dmaven.test.failure.ignore=true -Dsonar.junit.reportsPath=target/surefire-reports -Dsonar.surefire.reportsPath=target/surefire-reports -Dsonar.jacoco.reportPath=target/jacoco.exec
+
+export JAVA_HOME=/home/cteyton/Documents/Work/ProMyze/Code/Themis/infrastructure/dev/sharedinfra/tools/jvm/java-8-openjdk-amd64/
+mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent test install -Pcoverage-per-test sonar:sonar -Dsonar.login=1a75ad76520b1472a76318b0c7497cb5b2d4dc6c -Dsonar.host.url=http://62.210.103.41:9000 -Dsonar.scm.provider=git -Dsonar.branch=master -Dsonar.language=java -Dsonar.java.coveragePlugin=jacoco -Dsonar.jacoco.reportMissing.force.zero=true -Dmaven.test.failure.ignore=true -Dsonar.junit.reportsPath=target/surefire-reports -Dsonar.surefire.reportsPath=target/surefire-reports -Dsonar.jacoco.reportPath=target/jacoco.exec
