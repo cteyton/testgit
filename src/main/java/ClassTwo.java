@@ -35,6 +35,7 @@ public class ClassTwo {
 
     public boolean foo2() {
         int i = 0;
+        
         return true;
     }
 
