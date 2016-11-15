@@ -48,4 +48,28 @@ public class ClassTDD {
         int l = 0;
         return true;
     }
+
+    public boolean foo10() {
+        int i = 0;
+        int j = 0;
+        int k = 0;
+        int l = 0;
+        return true;
+    }
+
+    public boolean foo11() {
+        int i = 0;
+        int j = 0;
+        int k = 0;
+        int l = 0;
+        return true;
+    }
+
+    public boolean foo12() {
+        int i = 0;
+        int j = 0;
+        int k = 0;
+        int l = 0;
+        return true;
+    }
 }
