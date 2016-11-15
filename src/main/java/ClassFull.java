@@ -79,5 +79,23 @@ public class ClassFull {
         return c;
     }
 
+    public int multiplication12(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        int l = 0;
+        int m = 0;
+        int n = 0;
+        return c;
+    }
+
+    public int multiplication13(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        int l = 0;
+        int m = 0;
+        int n = 0;
+        return c;
+    }
+
 
 }
