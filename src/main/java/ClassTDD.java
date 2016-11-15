@@ -32,4 +32,20 @@ public class ClassTDD {
         int i = 0;
         return  true;
     }
+
+    public boolean foo8() {
+        int i = 0;
+        int j = 0;
+        int k = 0;
+        int l = 0;
+        return true;
+    }
+
+    public boolean foo9() {
+        int i = 0;
+        int j = 0;
+        int k = 0;
+        int l = 0;
+        return true;
+    }
 }
