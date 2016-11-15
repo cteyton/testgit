@@ -41,4 +41,14 @@ public class ClassFull {
         return c;
     }
 
+    public int multiplication6(int a, int b) {
+        int c = a * b;
+        return c;
+    }
+
+    public int multiplication7(int a, int b) {
+        int c = a * b;
+        return c;
+    }
+
 }
