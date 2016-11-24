@@ -26,7 +26,27 @@ public class ClassOne {
         return true;
     }
 
-    public boolean foo12() {
+    public boolean foo2() {
+        try {
+            System.out.println("Hello");
+            System.out.println("Hello 1");
+            System.out.println("Hello 2");
+            System.out.println("Hello 3");
+            System.out.println("Hello 4");
+            System.out.println("Hello 3");
+            System.out.println("Hello 4");
+            System.out.println("Hello 4");
+            System.out.println("Hello 3");
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
+        foo3();
+        return true;
+    }
+
+    public boolean foo3() {
         try {
             System.out.println("Hello");
             System.out.println("Hello 1");

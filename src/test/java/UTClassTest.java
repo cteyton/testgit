@@ -32,6 +32,7 @@ public class UTClassTest {
     public void testUT_WILL_BE_OK() {
         //Browse only one file
         new ClassOne().foo1();
+        new ClassOne().foo2();
         //Add a comment
         //Add another
         boolean val = UtilFoo.getValue();
