@@ -1,4 +1,8 @@
 import java.awt.color.CMMException;
+import java.awt.color.ICC_ColorSpace;
+import java.awt.dnd.Autoscroll;
+import java.awt.color.ICC_Profile;
+import java.awt.color.ProfileDataException;
 
 /**
  * Created by cteyton on 20/05/16.
