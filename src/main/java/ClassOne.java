@@ -30,9 +30,8 @@ public class ClassOne {
         System.out.println("Hello 1");
         System.out.println("Hello 2");
         int i = 0;
-
         int bar = 1;
-        int bar = 1;
+        int bar2 = 1;
         System.out.println("YOOOO 2");
     }
 
