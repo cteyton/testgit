@@ -71,11 +71,12 @@ public class ClassOne {
     }
 
     public void boo7() {
+        //Add comment
         int i = 0;
         int bar = 1;
         int bob = 5;
         int cat = 7;
         System.out.println("YOOOO 2");
     }
-    
+
 }
