@@ -65,5 +65,10 @@ public class ClassOne {
         return true;
     }
 
+    public boolean foo4() {
+        int bar = 0;
+        return true;
+    }
+
 
 }
