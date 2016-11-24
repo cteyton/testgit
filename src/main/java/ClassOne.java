@@ -77,28 +77,5 @@ public class ClassOne {
         int cat = 7;
         System.out.println("YOOOO 2");
     }
-
-    public void boo8() {
-        int i = 0;
-        int bar = 1;
-        int bob = 5;
-        int cat = 7;
-        System.out.println("YOOOO 2");
-    }
-
-    public void boo71() {
-        int i = 0;
-        int bar = 1;
-        int bob = 5;
-        int cat = 7;
-        System.out.println("YOOOO 2");
-    }
-
-    public void boo72() {
-        int i = 0;
-        int bar = 1;
-        int bob = 5;
-        int cat = 7;
-        System.out.println("YOOOO 2");
-    }
+    
 }
