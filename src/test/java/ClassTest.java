@@ -43,4 +43,20 @@ public class ClassTest {
         a = new ClassUnderThreshold().substract(10, 5);
         assertEquals(a, 5);
     }
+
+    @Test
+    public void testFull1() {
+        assertEquals(3, new ClassFull().addition(1, 2));
+    }
+
+    @Test
+    public void testFull2() {
+        assertEquals(2, new ClassFull().multiplication(1, 2));
+    }
+
+    @Test
+    public void testFull3() {
+        assertEquals(3, new ClassFull().multiplication(1, 2));
+    }
+
 }

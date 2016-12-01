@@ -15,4 +15,6 @@ public class FullTest {
         assertEquals(3, new MyFullClass().add(1, 2));
     }
 
+
+
 }
