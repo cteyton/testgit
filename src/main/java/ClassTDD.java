@@ -46,28 +46,20 @@ public class ClassTDD {
 
     public boolean foo9() {
         int i = 0;
-        int j = 0;
         int k = 0;
         int l = 0;
-        System.out.println("1");
         return true;
-
     }
 
     public boolean foo10() {
         int i = 0;
         int j = 0;
-        int k = 0;
         int l = 0;
         System.out.println("2");
         return true;
     }
 
     public boolean foo11() {
-        int i = 0;
-        int j = 0;
-        int k = 0;
-        int l = 0;
         System.out.println("3");
         return true;
     }
