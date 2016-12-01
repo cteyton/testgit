@@ -30,6 +30,9 @@ public class ClassTDD {
     //Add comment but no impact on coverage
     public boolean foo7() {
         int i = 0;
+        int j = 0;
+        int k = 0;
+        int l = 0;
         return  true;
     }
 
@@ -46,7 +49,9 @@ public class ClassTDD {
         int j = 0;
         int k = 0;
         int l = 0;
+        System.out.println("1");
         return true;
+
     }
 
     public boolean foo10() {
@@ -54,6 +59,7 @@ public class ClassTDD {
         int j = 0;
         int k = 0;
         int l = 0;
+        System.out.println("2");
         return true;
     }
 
@@ -62,6 +68,7 @@ public class ClassTDD {
         int j = 0;
         int k = 0;
         int l = 0;
+        System.out.println("3");
         return true;
     }
 
@@ -70,6 +77,7 @@ public class ClassTDD {
         int j = 0;
         int k = 0;
         int l = 0;
+        System.out.println("4");
         return true;
     }
 }
