@@ -102,7 +102,36 @@ public class ClassTest {
     @Test
     public void testFull12() {
         assertEquals(3, new ClassFull().multiplication10(1, 2));
+    }
+
+    @Test
+    public void testFull13() {
         assertEquals(3, new ClassFull().multiplication11(1, 2));
+    }
+
+    @Test
+    public void testFull14() {
         assertEquals(3, new ClassFull().multiplication12(1, 2));
     }
+
+    @Test
+    public void testFull15() {
+        assertEquals(3, new ClassFull().multiplication14(1, 2));
+    }
+
+    @Test
+    public void testFull16() {
+        assertEquals(3, new ClassFull().multiplication15(1, 2));
+    }
+
+    @Test
+    public void testFull17() {
+        assertEquals(3, new ClassFull().multiplication16(1, 2));
+    }
+
+    @Test
+    public void testFull18() {
+        assertEquals(3, new ClassFull().multiplication17(1, 2));
+    }
+
 }
