@@ -15,6 +15,12 @@ public class ClassAboveThreshold {
         return c;
     }
 
+    /**
+     * I just add a comment here
+     * @param a
+     * @param b
+     * @return
+     */
     public int multiplication(int a, int b) {
         int c = a * b;
         return c;
