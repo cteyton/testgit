@@ -1,12 +1,12 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-depot-test-git,default,ClassTDD,54,25,0,0,27,12,6,5,6,5
+depot-test-git,default,ClassTDD,57,25,0,0,27,12,6,5,6,5
 depot-test-git,default,ClassUnderThreshold,33,15,0,0,9,5,5,3,5,3
 depot-test-git,default,ClassTDDNew3,15,0,0,0,7,0,4,0,4,0
 depot-test-git,default,ClassAboveThreshold,14,42,0,0,6,12,3,7,3,7
 depot-test-git,default,ClassTDDNew,7,0,0,0,3,0,2,0,2,0
 depot-test-git,default,ClassTwo,0,21,0,0,0,7,0,4,0,4
-depot-test-git,default,ClassFull,154,21,0,0,61,7,16,4,16,4
-depot-test-git,default,ClassOne,13,106,0,0,8,39,1,5,1,5
+depot-test-git,default,ClassFull,16,127,0,0,6,44,1,18,1,18
+depot-test-git,default,ClassOne,74,97,0,0,30,36,1,5,1,5
 depot-test-git,default,ClassUncovered,20,14,2,0,8,7,3,2,2,2
 depot-test-git,default,ClassTDDNew4,17,0,0,0,8,0,8,0,8,0
 depot-test-git,util01_50,UTIL01,9,9,0,0,6,5,3,3,3,3
