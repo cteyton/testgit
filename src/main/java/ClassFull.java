@@ -23,6 +23,7 @@ public class ClassFull {
 
     public int substract(int a, int b) {
         //Hello
+        System.out.println("Hello world 4 !");
         int c = a - b;
         return c;
     }
