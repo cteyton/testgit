@@ -102,8 +102,6 @@ public class ClassFull {
     public int multiplication18(int a, int b) {
         int c = a * b;
         int k = 0;
-        int l = 0;
-        int m = 0;
         int n = 0;
         return c;
     }
@@ -111,9 +109,6 @@ public class ClassFull {
 
     public int multiplication19(int a, int b) {
         int c = a * b;
-        int k = 0;
-        int l = 0;
-        int m = 0;
         int n = 0;
         return c;
     }
