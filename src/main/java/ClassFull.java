@@ -119,8 +119,6 @@ public class ClassFull {
         }
         System.out.println("Hello 4");
         System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
         return true;
     }
 
