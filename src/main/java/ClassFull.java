@@ -142,4 +142,9 @@ public class ClassFull {
         System.out.println("Hello 4");
         System.out.println("Hello 5");
     }
+
+    public void multiplication23() {
+        System.out.println("Hello 4");
+        System.out.println("Hello 5");
+    }
 }
