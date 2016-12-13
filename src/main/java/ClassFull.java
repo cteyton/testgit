@@ -3,6 +3,11 @@
  */
 public class ClassFull {
 
+
+    public static void main(String[] args) {
+        System.out.println("Hello world !");
+    }
+
     public int addition(int a, int b) {
         int c = a + b;
         //Hello world
@@ -96,55 +101,4 @@ public class ClassFull {
         return c;
     }
 
-    public int multiplication18(int a, int b) {
-        int c = a * b;
-        int n = 0;
-        System.out.println("Hello 4");
-        return c;
-    }
-
-
-    public int multiplication19(int a, int b) {
-        int c = a * b;
-        int n = 0;
-        System.out.println("Hello 4");
-        return c;
-    }
-
-    public boolean foo4() {
-        System.out.println("Hello 4");
-        try {
-            int bar = 0;
-            System.out.println("Hello 4");
-        }
-        catch (Exception e){
-            e.printStackTrace();
-        }
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        return true;
-    }
-
-
-    public void multiplication20() {
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-    }
-
-    public void multiplication21() {
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-    }
-
-    public void multiplication22() {
-        System.out.println("Hello 4");
-        System.out.println("Hello 5");
-    }
-
-    public void multiplication23() {
-        System.out.println("Hello 4");
-        System.out.println("Hello 5");
-    }
 }
