@@ -136,5 +136,6 @@ public class ClassFull {
 
     public void multiplication22() {
         System.out.println("Hello 4");
+        System.out.println("Hello 5");
     }
 }
