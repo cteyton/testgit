@@ -92,14 +92,12 @@ public class ClassFull {
 
     public int multiplication16(int a, int b) {
         int c = a * b;
-        int k = 0;
         int n = 0;
         return c;
     }
 
     public int multiplication18(int a, int b) {
         int c = a * b;
-        int k = 0;
         int n = 0;
         return c;
     }
