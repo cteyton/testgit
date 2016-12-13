@@ -99,6 +99,7 @@ public class ClassFull {
     public int multiplication18(int a, int b) {
         int c = a * b;
         int n = 0;
+        System.out.println("Hello 4");
         return c;
     }
 
@@ -106,6 +107,7 @@ public class ClassFull {
     public int multiplication19(int a, int b) {
         int c = a * b;
         int n = 0;
+        System.out.println("Hello 4");
         return c;
     }
 
