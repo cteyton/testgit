@@ -44,6 +44,10 @@ public class ClassTDD {
         return true;
     }
 
+    /**
+     * Add doc
+     * @return
+     */
     public boolean foo9() {
         int i = 0;
         int k = 0;

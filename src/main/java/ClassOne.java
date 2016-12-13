@@ -66,6 +66,10 @@ public class ClassOne {
         return true;
     }
 
+    /**
+     * Add doc
+     * @return
+     */
     public boolean foo4() {
         System.out.println("Hello 4");
         try {
