@@ -113,4 +113,16 @@ public class ClassFull {
         return c;
     }
 
+    public int multiplication17(int a, int b) {
+        int c = a * b;
+        int n = 0;
+        return c;
+    }
+
+    public int multiplication18(int a, int b) {
+        int c = a * b;
+        int n = 0;
+        return c;
+    }
+
 }
