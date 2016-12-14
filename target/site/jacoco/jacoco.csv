@@ -5,7 +5,7 @@ depot-test-git,default,ClassTDDNew3,15,0,0,0,7,0,4,0,4,0
 depot-test-git,default,ClassAboveThreshold,14,42,0,0,6,12,3,7,3,7
 depot-test-git,default,ClassTDDNew,7,0,0,0,3,0,2,0,2,0
 depot-test-git,default,ClassTwo,0,21,0,0,0,7,0,4,0,4
-depot-test-git,default,ClassFull,16,139,0,0,6,48,1,18,1,18
+depot-test-git,default,ClassFull,32,139,0,0,12,48,3,18,3,18
 depot-test-git,default,ClassOne,74,97,0,0,30,36,1,5,1,5
 depot-test-git,default,ClassUncovered,20,14,2,0,8,7,3,2,2,2
 depot-test-git,default,ClassTDDNew4,17,0,0,0,8,0,8,0,8,0
