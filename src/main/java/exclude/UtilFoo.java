@@ -22,6 +22,10 @@ public class UtilFoo {
         return true;
     }
 
+    /**
+     * Add comment
+     * @return
+     */
     public static boolean getValue4() {
         return true;
     }
