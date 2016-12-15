@@ -13,6 +13,12 @@ public class ClassTDDNew3 {
         return true;
     }
 
+    /**
+     * I just add a comment here
+     * @param a
+     * @param b
+     * @return
+     */
     public boolean foo3() {
         int i = 0;
         return true;

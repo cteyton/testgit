@@ -67,39 +67,5 @@ public class ClassOne {
         return true;
     }
 
-    /**
-     * Add doc
-     * @return
-     */
-    public boolean foo4() {
-        System.out.println("Hello 4");
-        try {
-            int bar = 0;
-            System.out.println("Hello 4");
-        }
-        catch (Exception e){
-            e.printStackTrace();
-        }
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-        System.out.println("Hello 4");
-
-        return true;
-    }
-
 
 }

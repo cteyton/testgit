@@ -23,10 +23,22 @@ public class ClassTDDNew4 {
         return true;
     }
 
+    /**
+     * I just add a comment here
+     * @param a
+     * @param b
+     * @return
+     */
     public boolean foo6() {
         return true;
     }
 
+    /**
+     * I just add a comment here
+     * @param a
+     * @param b
+     * @return
+     */
     public boolean foo7() {
         return true;
     }
