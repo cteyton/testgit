@@ -119,6 +119,21 @@ public class ClassFull {
         return c;
     }
 
+    public boolean foo4() {
+        try {
+            System.out.println("Hello");
+            System.out.println("Hello 4");
+            System.out.println("Hello 3");
+            System.out.println("Hello");
+            System.out.println("Hello 1");
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
+        return true;
+    }
+
     public int multiplication17(int a, int b) {
         int c = a * b;
         int n = 0;
