@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: ClassTest
 -------------------------------------------------------------------------------
-Tests run: 20, Failures: 15, Errors: 0, Skipped: 0, Time elapsed: 0.297 sec <<< FAILURE!
-testFull3(ClassTest)  Time elapsed: 0.026 sec  <<< FAILURE!
+Tests run: 20, Failures: 15, Errors: 0, Skipped: 0, Time elapsed: 0.31 sec <<< FAILURE!
+testFull3(ClassTest)  Time elapsed: 0.011 sec  <<< FAILURE!
 java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -11,7 +11,7 @@ java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.assertEquals(Assert.java:542)
 	at ClassTest.testFull3(ClassTest.java:59)
 
-testFull4(ClassTest)  Time elapsed: 0.004 sec  <<< FAILURE!
+testFull4(ClassTest)  Time elapsed: 0.003 sec  <<< FAILURE!
 java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -29,7 +29,7 @@ java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.assertEquals(Assert.java:542)
 	at ClassTest.testFull5(ClassTest.java:69)
 
-testFull6(ClassTest)  Time elapsed: 0.004 sec  <<< FAILURE!
+testFull6(ClassTest)  Time elapsed: 0.002 sec  <<< FAILURE!
 java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -38,7 +38,7 @@ java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.assertEquals(Assert.java:542)
 	at ClassTest.testFull6(ClassTest.java:74)
 
-testFull7(ClassTest)  Time elapsed: 0.003 sec  <<< FAILURE!
+testFull7(ClassTest)  Time elapsed: 0.005 sec  <<< FAILURE!
 java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -47,7 +47,7 @@ java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.assertEquals(Assert.java:542)
 	at ClassTest.testFull7(ClassTest.java:79)
 
-testFull8(ClassTest)  Time elapsed: 0.006 sec  <<< FAILURE!
+testFull8(ClassTest)  Time elapsed: 0.002 sec  <<< FAILURE!
 java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -56,7 +56,7 @@ java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.assertEquals(Assert.java:542)
 	at ClassTest.testFull8(ClassTest.java:84)
 
-testFull9(ClassTest)  Time elapsed: 0.003 sec  <<< FAILURE!
+testFull9(ClassTest)  Time elapsed: 0.002 sec  <<< FAILURE!
 java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -65,7 +65,7 @@ java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.assertEquals(Assert.java:542)
 	at ClassTest.testFull9(ClassTest.java:89)
 
-testFull10(ClassTest)  Time elapsed: 0.004 sec  <<< FAILURE!
+testFull10(ClassTest)  Time elapsed: 0.001 sec  <<< FAILURE!
 java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -74,7 +74,7 @@ java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.assertEquals(Assert.java:542)
 	at ClassTest.testFull10(ClassTest.java:94)
 
-testFull11(ClassTest)  Time elapsed: 0.003 sec  <<< FAILURE!
+testFull11(ClassTest)  Time elapsed: 0.002 sec  <<< FAILURE!
 java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -83,7 +83,7 @@ java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.assertEquals(Assert.java:542)
 	at ClassTest.testFull11(ClassTest.java:99)
 
-testFull12(ClassTest)  Time elapsed: 0.003 sec  <<< FAILURE!
+testFull12(ClassTest)  Time elapsed: 0.002 sec  <<< FAILURE!
 java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -101,7 +101,7 @@ java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.assertEquals(Assert.java:542)
 	at ClassTest.testFull13(ClassTest.java:109)
 
-testFull14(ClassTest)  Time elapsed: 0.003 sec  <<< FAILURE!
+testFull14(ClassTest)  Time elapsed: 0.002 sec  <<< FAILURE!
 java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -119,7 +119,7 @@ java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.assertEquals(Assert.java:542)
 	at ClassTest.testFull15(ClassTest.java:119)
 
-testFull16(ClassTest)  Time elapsed: 0.002 sec  <<< FAILURE!
+testFull16(ClassTest)  Time elapsed: 0.001 sec  <<< FAILURE!
 java.lang.AssertionError: expected:<3> but was:<2>
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
