@@ -5,6 +5,10 @@ package exclude;
  */
 public class UtilBob {
 
+    /**
+     * Add bob
+     * @return
+     */
     public static boolean getValue() {
         return true;
     }

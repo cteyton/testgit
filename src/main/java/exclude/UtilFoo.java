@@ -26,6 +26,10 @@ public class UtilFoo {
         return true;
     }
 
+    /**
+     * Add bob
+     * @return
+     */
     public static boolean getValue5() {
         return true;
     }

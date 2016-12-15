@@ -21,8 +21,4 @@ public class UTIL01 {
         int i = 0;
     }
 
-    public void foo5(){
-        int i = 0;
-    }
-
 }

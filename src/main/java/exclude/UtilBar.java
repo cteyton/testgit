@@ -5,6 +5,10 @@ package exclude;
  */
 public class UtilBar {
 
+    /**
+     *
+     * @return
+     */
     public static boolean getValue() {
         return true;
     }
