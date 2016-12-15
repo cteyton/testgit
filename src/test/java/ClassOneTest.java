@@ -13,7 +13,6 @@ public class ClassOneTest {
         new ClassOne().foo4();
         new ClassOne().foo5();
         new ClassOne().foo6();
-        new ClassOne().foo7();
         new ClassOne().hello();
     }
 
