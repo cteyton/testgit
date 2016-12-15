@@ -92,10 +92,6 @@ public class ClassOne {
             System.out.println("Hello 3");
             System.out.println("Hello 4");
             System.out.println("Hello 3");
-            System.out.println("Hello 3");
-            System.out.println("Hello 3");
-            System.out.println("Hello 4");
-            System.out.println("Hello 3");
         }
         catch (Exception e){
             e.printStackTrace();
@@ -105,10 +101,6 @@ public class ClassOne {
 
     public boolean foo7() {
         try {
-            System.out.println("Hello 3");
-            System.out.println("Hello 3");
-            System.out.println("Hello 4");
-            System.out.println("Hello 3");
             System.out.println("Hello 3");
             System.out.println("Hello 3");
             System.out.println("Hello 4");

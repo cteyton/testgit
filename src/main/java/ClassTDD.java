@@ -14,6 +14,10 @@ public class ClassTDD {
         return true;
     }
 
+    /**
+     * Comm
+     * @return
+     */
     public boolean foo3() {
         int i = 0;
         return true;

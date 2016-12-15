@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="20" failures="15" name="ClassTest" time="0.116" errors="0" skipped="0">
+<testsuite tests="20" failures="15" name="ClassTest" time="0.073" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/home/cteyton/Documents/Work/ProMyze/Code/Themis/infrastructure/dev/sharedinfra/tools/jvm/java-8-openjdk-amd64/jre/lib/amd64"/>
@@ -68,10 +68,10 @@
     <property name="sonar.language" value="java"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="ClassTest" name="fullClass" time="0.024"/>
+  <testcase classname="ClassTest" name="fullClass" time="0.016"/>
   <testcase classname="ClassTest" name="testFull1" time="0.003"/>
-  <testcase classname="ClassTest" name="testFull2" time="0.003"/>
-  <testcase classname="ClassTest" name="testFull3" time="0.023">
+  <testcase classname="ClassTest" name="testFull2" time="0.002"/>
+  <testcase classname="ClassTest" name="testFull3" time="0.013">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -84,7 +84,7 @@
 Hello world 3 !
 </system-out>
   </testcase>
-  <testcase classname="ClassTest" name="testFull4" time="0.004">
+  <testcase classname="ClassTest" name="testFull4" time="0.003">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -94,7 +94,7 @@ Hello world 3 !
 	at ClassTest.testFull4(ClassTest.java:64)
 </failure>
   </testcase>
-  <testcase classname="ClassTest" name="testFull5" time="0.006">
+  <testcase classname="ClassTest" name="testFull5" time="0.002">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -104,7 +104,7 @@ Hello world 3 !
 	at ClassTest.testFull5(ClassTest.java:69)
 </failure>
   </testcase>
-  <testcase classname="ClassTest" name="testFull6" time="0.003">
+  <testcase classname="ClassTest" name="testFull6" time="0.002">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -114,7 +114,7 @@ Hello world 3 !
 	at ClassTest.testFull6(ClassTest.java:74)
 </failure>
   </testcase>
-  <testcase classname="ClassTest" name="testFull7" time="0.006">
+  <testcase classname="ClassTest" name="testFull7" time="0.002">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -124,7 +124,7 @@ Hello world 3 !
 	at ClassTest.testFull7(ClassTest.java:79)
 </failure>
   </testcase>
-  <testcase classname="ClassTest" name="testFull8" time="0.004">
+  <testcase classname="ClassTest" name="testFull8" time="0.002">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -134,7 +134,7 @@ Hello world 3 !
 	at ClassTest.testFull8(ClassTest.java:84)
 </failure>
   </testcase>
-  <testcase classname="ClassTest" name="testFull9" time="0.003">
+  <testcase classname="ClassTest" name="testFull9" time="0.002">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -144,7 +144,7 @@ Hello world 3 !
 	at ClassTest.testFull9(ClassTest.java:89)
 </failure>
   </testcase>
-  <testcase classname="ClassTest" name="testFull10" time="0.004">
+  <testcase classname="ClassTest" name="testFull10" time="0.001">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -154,7 +154,7 @@ Hello world 3 !
 	at ClassTest.testFull10(ClassTest.java:94)
 </failure>
   </testcase>
-  <testcase classname="ClassTest" name="testFull11" time="0.005">
+  <testcase classname="ClassTest" name="testFull11" time="0.002">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -164,7 +164,7 @@ Hello world 3 !
 	at ClassTest.testFull11(ClassTest.java:99)
 </failure>
   </testcase>
-  <testcase classname="ClassTest" name="testFull12" time="0.004">
+  <testcase classname="ClassTest" name="testFull12" time="0.002">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -174,7 +174,7 @@ Hello world 3 !
 	at ClassTest.testFull12(ClassTest.java:104)
 </failure>
   </testcase>
-  <testcase classname="ClassTest" name="testFull13" time="0.005">
+  <testcase classname="ClassTest" name="testFull13" time="0.002">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -184,7 +184,7 @@ Hello world 3 !
 	at ClassTest.testFull13(ClassTest.java:109)
 </failure>
   </testcase>
-  <testcase classname="ClassTest" name="testFull14" time="0.002">
+  <testcase classname="ClassTest" name="testFull14" time="0.003">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -194,7 +194,7 @@ Hello world 3 !
 	at ClassTest.testFull14(ClassTest.java:114)
 </failure>
   </testcase>
-  <testcase classname="ClassTest" name="testFull15" time="0.002">
+  <testcase classname="ClassTest" name="testFull15" time="0.004">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -214,7 +214,7 @@ Hello world 3 !
 	at ClassTest.testFull16(ClassTest.java:124)
 </failure>
   </testcase>
-  <testcase classname="ClassTest" name="testFull17" time="0.003">
+  <testcase classname="ClassTest" name="testFull17" time="0.002">
     <failure message="expected:&lt;3&gt; but was:&lt;2&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;2&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:743)
@@ -224,6 +224,6 @@ Hello world 3 !
 	at ClassTest.testFull17(ClassTest.java:129)
 </failure>
   </testcase>
-  <testcase classname="ClassTest" name="aboveThreshold" time="0.004"/>
-  <testcase classname="ClassTest" name="underThreshold" time="0.004"/>
+  <testcase classname="ClassTest" name="aboveThreshold" time="0.003"/>
+  <testcase classname="ClassTest" name="underThreshold" time="0.003"/>
 </testsuite>
