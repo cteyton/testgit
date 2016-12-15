@@ -79,7 +79,7 @@ public class ClassOne {
         catch (Exception e){
             e.printStackTrace();
         }
-        int i = new Random().nextInt(40);
+        i = new Random().nextInt(40);
         if(i > 10) {
             System.out.println("Hello 4");
             System.out.println("Hello 3");
