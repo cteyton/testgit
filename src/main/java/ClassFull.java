@@ -110,6 +110,12 @@ public class ClassFull {
     public int multiplication16(int a, int b) {
         int c = a * b;
         int n = 0;
+        multiplication17(a, b);
+        multiplication18(a, b);
+        multiplication19(a, b);
+        multiplication20(a, b);
+        multiplication21(a, b);
+        multiplication22(a, b);
         return c;
     }
 
