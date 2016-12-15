@@ -13,4 +13,14 @@ public class UtilBob {
         return true;
     }
 
+    /**
+     * Additions
+     * @param a first operand
+     * @param b second operand
+     * @return the sum of both numbers
+     */
+    public int addition(int a, int b) {
+        return a+b;
+    }
+
 }

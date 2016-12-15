@@ -6,7 +6,7 @@ package Full;
 public class MyFullClass {
 
     /**
-     * 
+     *
      * @param a
      * @param b
      * @return
