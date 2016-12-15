@@ -107,6 +107,12 @@ public class ClassFull {
         return c;
     }
 
+    /**
+     * I just add a comment here
+     * @param a
+     * @param b
+     * @return
+     */
     public int multiplication16(int a, int b) {
         int c = a * b;
         int n = 0;

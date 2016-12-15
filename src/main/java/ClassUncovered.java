@@ -23,6 +23,12 @@ public class ClassUncovered {
         return a + b;
     }
 
+    /**
+     * I just add a comment here
+     * @param a
+     * @param b
+     * @return
+     */
     public void aNewUncoveredMethod() {
         String a = "";
         String b = "";

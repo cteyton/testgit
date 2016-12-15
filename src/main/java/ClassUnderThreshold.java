@@ -24,6 +24,12 @@ public class ClassUnderThreshold {
         return c;
     }
 
+    /**
+     * I just add a comment here
+     * @param a
+     * @param b
+     * @return
+     */
     public double power(double a, double b) {
         double c = Math.pow(a, b);
         return c;
