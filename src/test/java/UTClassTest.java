@@ -16,7 +16,7 @@ public class UTClassTest {
     //Browse two files
     @Test
     public void test_UT_NOT_OK() {
-        new ClassOne().hello();
+        new ClassOneTest().hello();
         assertEquals(3, new ClassTwo().addition(1, 2));
         new ClassUncovered().reverseList(new ArrayList<Integer>());
         assertTrue(true);
@@ -31,8 +31,8 @@ public class UTClassTest {
     @Test
     public void testUT_WILL_BE_OK() {
         //Browse only one file
-        new ClassOne().foo1();
-        new ClassOne().foo2();
+        new ClassOneTest().foo1();
+        new ClassOneTest().foo2();
         //Add a comment
         //Add another
         boolean val = UtilFoo.getValue();
