@@ -122,4 +122,22 @@ public class ClassOne {
     }
 
 
+    public boolean foo7() {
+        try {
+            System.out.println("Hello 3");
+            System.out.println("Hello 3");
+            System.out.println("Hello 4");
+            System.out.println("Hello 3");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
+        int i = new Random().nextInt(40);
+        if(i > 10) {
+            System.out.println("Hello 4");
+            System.out.println("Hello 3");
+        }
+        return true;
+    }
+
 }
