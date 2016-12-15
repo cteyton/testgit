@@ -44,6 +44,10 @@ public class ClassOne {
      * @return
      */
     public boolean foo3() {
+        if(1 > 10) {
+            System.out.println("Hello 4");
+            System.out.println("Hello 3");
+        }
         try {
             System.out.println("Hello");
             System.out.println("Hello 4");
@@ -56,6 +60,10 @@ public class ClassOne {
 
 
     public boolean foo4() {
+        if(1 > 10) {
+            System.out.println("Hello 4");
+            System.out.println("Hello 3");
+        }
         try {
             System.out.println("Hello");
             System.out.println("Hello 4");
