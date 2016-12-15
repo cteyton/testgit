@@ -13,4 +13,7 @@ public class UtilBar {
         return true;
     }
 
+    public void foo1() {
+    }
+
 }

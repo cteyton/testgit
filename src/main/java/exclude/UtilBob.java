@@ -17,7 +17,6 @@ public class UtilBob {
             System.out.println("Hello 4");
             System.out.println("Hello 3");
         }
-        System.out.println("Hello");
         return true;
     }
 
@@ -33,7 +32,6 @@ public class UtilBob {
             System.out.println("Hello 4");
             System.out.println("Hello 3");
         }
-        System.out.println("Hello");
         return a+b;
     }
 
