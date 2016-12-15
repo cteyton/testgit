@@ -67,6 +67,10 @@ public class ClassOne {
         catch (Exception e){
             e.printStackTrace();
         }
+        if(1 > 10) {
+            System.out.println("Hello 4");
+            System.out.println("Hello 3");
+        }
         return true;
     }
 
