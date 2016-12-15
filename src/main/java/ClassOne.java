@@ -1,3 +1,5 @@
+import java.util.Random;
+
 /**
  * Created by cteyton on 20/05/16.
  */
@@ -44,7 +46,8 @@ public class ClassOne {
      * @return
      */
     public boolean foo3() {
-        if(1 > 10) {
+        int i = new Random().nextInt(40);
+        if(i > 10) {
             System.out.println("Hello 4");
             System.out.println("Hello 3");
         }
@@ -60,7 +63,8 @@ public class ClassOne {
 
 
     public boolean foo4() {
-        if(1 > 10) {
+        int i = new Random().nextInt(40);
+        if(i > 10) {
             System.out.println("Hello 4");
             System.out.println("Hello 3");
         }
@@ -75,7 +79,8 @@ public class ClassOne {
         catch (Exception e){
             e.printStackTrace();
         }
-        if(1 > 10) {
+        int i = new Random().nextInt(40);
+        if(i > 10) {
             System.out.println("Hello 4");
             System.out.println("Hello 3");
         }
@@ -108,7 +113,8 @@ public class ClassOne {
         catch (Exception e){
             e.printStackTrace();
         }
-        if(1 > 10) {
+        int i = new Random().nextInt(40);
+        if(i > 10) {
             System.out.println("Hello 4");
             System.out.println("Hello 3");
         }

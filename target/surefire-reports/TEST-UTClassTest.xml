@@ -68,7 +68,7 @@
     <property name="sonar.language" value="java"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="UTClassTest" name="test_UT_NOT_OK" time="0.014"/>
-  <testcase classname="UTClassTest" name="testUT_WILL_BE_OK" time="0.006"/>
-  <testcase classname="UTClassTest" name="test_UT_OK" time="0.004"/>
+  <testcase classname="UTClassTest" name="test_UT_NOT_OK" time="0.011"/>
+  <testcase classname="UTClassTest" name="testUT_WILL_BE_OK" time="0.01"/>
+  <testcase classname="UTClassTest" name="test_UT_OK" time="0.003"/>
 </testsuite>
