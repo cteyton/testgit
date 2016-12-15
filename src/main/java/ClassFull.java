@@ -149,4 +149,10 @@ public class ClassFull {
         return c;
     }
 
+    public int multiplication23(int a, int b) {
+        int c = a * b;
+        int n = 0;
+        return c;
+    }
+
 }
