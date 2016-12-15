@@ -11,8 +11,6 @@ public class ClassOneTest {
         new ClassOne().foo2();
         new ClassOne().foo3();
         new ClassOne().foo4();
-        new ClassOne().foo5();
-        new ClassOne().foo6();
         new ClassOne().hello();
     }
 
