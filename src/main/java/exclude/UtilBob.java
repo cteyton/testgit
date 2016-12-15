@@ -10,6 +10,7 @@ public class UtilBob {
      * @return
      */
     public static boolean getValue() {
+        System.out.println("Hello");
         return true;
     }
 
@@ -20,6 +21,7 @@ public class UtilBob {
      * @return the sum of both numbers
      */
     public int addition(int a, int b) {
+        System.out.println("Hello");
         return a+b;
     }
 
