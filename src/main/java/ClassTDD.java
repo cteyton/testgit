@@ -89,13 +89,6 @@ public class ClassTDD {
 
     public boolean foo20() {
         try {
-            System.out.println("Hello");
-            System.out.println("Hello 1");
-            System.out.println("Hello 2");
-            System.out.println("Hello 3");
-            System.out.println("Hello 4");
-            System.out.println("Hello 4");
-            System.out.println("Hello 3");
             System.out.println("Hello 4");
             System.out.println("Hello 3");
         }
@@ -109,12 +102,6 @@ public class ClassTDD {
         try {
             System.out.println("Hello");
             System.out.println("Hello 1");
-            System.out.println("Hello 2");
-            System.out.println("Hello 3");
-            System.out.println("Hello 4");
-            System.out.println("Hello 4");
-            System.out.println("Hello 3");
-            System.out.println("Hello 4");
             System.out.println("Hello 3");
         }
         catch (Exception e){
@@ -127,12 +114,6 @@ public class ClassTDD {
         try {
             System.out.println("Hello");
             System.out.println("Hello 1");
-            System.out.println("Hello 2");
-            System.out.println("Hello 3");
-            System.out.println("Hello 4");
-            System.out.println("Hello 4");
-            System.out.println("Hello 3");
-            System.out.println("Hello 4");
             System.out.println("Hello 3");
         }
         catch (Exception e){
@@ -144,11 +125,6 @@ public class ClassTDD {
     public boolean foo23() {
         try {
             System.out.println("Hello");
-            System.out.println("Hello 4");
-            System.out.println("Hello 3");
-            System.out.println("Hello");
-            System.out.println("Hello 1");
-            System.out.println("Hello 4");
         }
         catch (Exception e){
             e.printStackTrace();

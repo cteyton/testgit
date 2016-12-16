@@ -127,11 +127,6 @@ public class ClassFull {
 
     public boolean foo4() {
         try {
-            System.out.println("Hello");
-            System.out.println("Hello 4");
-            System.out.println("Hello 3");
-            System.out.println("Hello");
-            System.out.println("Hello 1");
             System.out.println("Hello 4");
         }
         catch (Exception e){
