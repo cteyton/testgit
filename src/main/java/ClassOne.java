@@ -55,7 +55,11 @@ public class ClassOne {
     }
 
 
-
+    public int multiplication20(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
 
 
 }

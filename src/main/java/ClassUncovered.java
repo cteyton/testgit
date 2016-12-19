@@ -58,5 +58,15 @@ public class ClassUncovered {
         return true;
     }
 
+    public int multiplication20(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
 
+    public int multiplication20(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
 }
