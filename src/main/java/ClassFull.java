@@ -170,4 +170,17 @@ public class ClassFull {
         return c;
     }
 
+    public int multiplication28(int a, int b) {
+        int c = a * b;
+        int n = 0;
+        return c;
+    }
+
+    public int multiplication29(int a, int b) {
+        int c = a * b;
+        int n = 0;
+        return c;
+    }
+
+
 }
