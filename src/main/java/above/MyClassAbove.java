@@ -22,6 +22,17 @@ public class MyClassAbove {
         return a+b;
     }
 
+    public int multiplication21(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
     //I just add comments
+
+    public int multiplication22(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
 
 }

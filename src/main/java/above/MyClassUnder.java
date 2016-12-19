@@ -53,4 +53,10 @@ public class MyClassUnder {
         return a+b;
     }
 
+    public int multiplication21(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
+
 }

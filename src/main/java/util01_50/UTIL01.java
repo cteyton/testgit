@@ -13,4 +13,10 @@ public class UTIL01 {
         int i = 0;
     }
 
+    public int multiplication21(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
+
 }
