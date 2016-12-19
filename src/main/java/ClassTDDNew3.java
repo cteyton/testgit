@@ -33,7 +33,6 @@ public class ClassTDDNew3 {
 
     public boolean foo4() {
         try {
-            System.out.println("Hello");
             System.out.println("Hello 4");
         }
         catch (Exception e){

@@ -90,18 +90,31 @@ public class ClassFull {
         return c;
     }
 
-    public int multiplication12(int a, int b) {
-        int c = a * b;
-        return c;
-    }
-
-    public int multiplication14(int a, int b) {
-        int c = a * b;
-        int n = 0;
-        return c;
-    }
-
     public int multiplication15(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
+
+    public int multiplication16(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
+
+    public int multiplication17(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
+
+    public int multiplication18(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
+
+    public int multiplication19(int a, int b) {
         int c = a * b;
         int k = 0;
         return c;

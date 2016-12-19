@@ -45,16 +45,6 @@ public class ClassTDDNew4 {
         return true;
     }
 
-    /**
-     * I just add a comment here
-     * @param a
-     * @param b
-     * @return
-     */
-    public boolean foo7() {
-        return true;
-    }
-
     public boolean foo9() {
         try {
             System.out.println("Hello");

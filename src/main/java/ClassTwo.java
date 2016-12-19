@@ -24,9 +24,6 @@ public class ClassTwo {
     public boolean foo4() {
         try {
             System.out.println("Hello");
-            System.out.println("Hello 4");
-            System.out.println("Hello 3");
-            System.out.println("Hello");
             System.out.println("Hello 1");
             System.out.println("Hello 4");
         }
@@ -53,12 +50,9 @@ public class ClassTwo {
     public boolean foo8() {
         int i = new Random().nextInt(40);
         if(i > 10) {
-            System.out.println("Hello 4");
             System.out.println("Hello 3");
         }
         try {
-            System.out.println("Hello");
-            System.out.println("Hello 1");
             System.out.println("Hello 4");
         }
         catch (Exception e){

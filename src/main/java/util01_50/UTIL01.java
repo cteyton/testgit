@@ -13,12 +13,4 @@ public class UTIL01 {
         int i = 0;
     }
 
-    public void foo3(){
-        int i = 0;
-    }
-
-    public void foo4(){
-        int i = 0;
-    }
-
 }

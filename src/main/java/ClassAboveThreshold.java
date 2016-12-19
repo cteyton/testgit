@@ -59,17 +59,10 @@ public class ClassAboveThreshold {
         return a*a;
     }
 
-    public boolean foo5() {
-        int i = 0;
-        return true;
-    }
-
     public boolean foo6() {
         int i = 0;
         return true;
     }
-
-
 
     public boolean foo4() {
         int i = new Random().nextInt(40);

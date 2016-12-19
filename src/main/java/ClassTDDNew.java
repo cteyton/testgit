@@ -3,15 +3,6 @@
  */
 public class ClassTDDNew {
 
-    /**
-     * Add doc
-     * @return
-     */
-    public boolean foo1() {
-        int i = 0;
-        return true;
-    }
-
     public boolean foo23() {
         try {
             System.out.println("Hello 4");
@@ -21,6 +12,5 @@ public class ClassTDDNew {
         }
         return true;
     }
-
 
 }
