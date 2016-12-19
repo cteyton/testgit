@@ -110,16 +110,6 @@ public class ClassTest {
     }
 
     @Test
-    public void testFull14() {
-        assertEquals(2, new ClassFull().multiplication12(1, 2));
-    }
-
-    @Test
-    public void testFull15() {
-        assertEquals(2, new ClassFull().multiplication14(1, 2));
-    }
-
-    @Test
     public void testFull16() {
         assertEquals(2, new ClassFull().multiplication15(1, 2));
     }
