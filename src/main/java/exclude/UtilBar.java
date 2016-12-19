@@ -51,4 +51,10 @@ public class UtilBar {
         return c;
     }
 
+    public int multiplication30(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
+
 }

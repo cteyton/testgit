@@ -18,4 +18,11 @@ public class ClassTDDNew {
         int k = 0;
         return c;
     }
+
+
+    public int multiplication21(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
 }

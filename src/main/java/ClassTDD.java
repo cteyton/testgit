@@ -98,30 +98,6 @@ public class ClassTDD {
         return true;
     }
 
-    public boolean foo21() {
-        try {
-            System.out.println("Hello");
-            System.out.println("Hello 1");
-            System.out.println("Hello 3");
-        }
-        catch (Exception e){
-            e.printStackTrace();
-        }
-        return true;
-    }
-
-    public boolean foo22() {
-        try {
-            System.out.println("Hello");
-            System.out.println("Hello 1");
-            System.out.println("Hello 3");
-        }
-        catch (Exception e){
-            e.printStackTrace();
-        }
-        return true;
-    }
-
     public boolean foo23() {
         try {
             System.out.println("Hello");
