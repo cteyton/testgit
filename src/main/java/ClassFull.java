@@ -118,10 +118,6 @@ public class ClassFull {
         int n = 0;
         multiplication17(a, b);
         multiplication18(a, b);
-        multiplication19(a, b);
-        multiplication20(a, b);
-        multiplication21(a, b);
-        multiplication22(a, b);
         return c;
     }
 
@@ -142,30 +138,6 @@ public class ClassFull {
     }
 
     public int multiplication18(int a, int b) {
-        int c = a * b;
-        int n = 0;
-        return c;
-    }
-
-    public int multiplication19(int a, int b) {
-        int c = a * b;
-        int n = 0;
-        return c;
-    }
-
-    public int multiplication20(int a, int b) {
-        int c = a * b;
-        int n = 0;
-        return c;
-    }
-
-    public int multiplication21(int a, int b) {
-        int c = a * b;
-        int n = 0;
-        return c;
-    }
-
-    public int multiplication22(int a, int b) {
         int c = a * b;
         int n = 0;
         return c;
