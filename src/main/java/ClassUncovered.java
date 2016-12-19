@@ -1,5 +1,6 @@
 import java.util.Collections;
 import java.util.List;
+import java.util.Random;
 
 /**
  * Created by cteyton on 20/07/16.
@@ -35,6 +36,28 @@ public class ClassUncovered {
         if(a.endsWith(b)) {
             System.out.println("OK");
         }
+    }
+
+    public boolean foo8() {
+        int i = new Random().nextInt(40);
+        if(i > 10) {
+            System.out.println("Hello 4");
+            System.out.println("Hello 3");
+        }
+        try {
+            System.out.println("Hello");
+            System.out.println("Hello 1");
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
+        i = new Random().nextInt(40);
+        if(i > 10) {
+            System.out.println("Hello 4");
+            System.out.println("Hello 3");
+        }
+        return true;
     }
 
 
