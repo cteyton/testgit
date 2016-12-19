@@ -14,13 +14,6 @@ public class UtilFoo {
         return true;
     }
 
-    public static boolean getValue2() {
-        return true;
-    }
-
-    public static boolean getValue3() {
-        return true;
-    }
 
     /**
      * Add comment
@@ -30,17 +23,8 @@ public class UtilFoo {
         return true;
     }
 
-    /**
-     * Add bob
-     * @return
-     */
-    public static boolean getValue5() {
-        return true;
-    }
-
     public int multiplication30(int a, int b) {
         int c = a * b;
-        int k = 0;
         return c;
     }
 
