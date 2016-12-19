@@ -124,9 +124,5 @@ public class ClassTest {
         assertEquals(3, new ClassFull().multiplication15(1, 2));
     }
 
-    @Test
-    public void testFull17() {
-        assertEquals(3, new ClassFull().multiplication16(1, 2));
-    }
 
 }
