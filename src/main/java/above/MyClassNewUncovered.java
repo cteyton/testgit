@@ -13,16 +13,6 @@ public class MyClassNewUncovered {
         return a+b;
     }
 
-    public int add2(int a, int b){
-        return a+b;
-    }
-    public int add6(int a, int b){
-        return a+b;
-    }
-
-    public int add7(int a, int b){
-        return a+b;
-    }
 
     public int add8(int a, int b){
         return a+b;
@@ -48,11 +38,5 @@ public class MyClassNewUncovered {
         return a+b;
     }
 
-
-    public int multiplication30(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
-    }
 
 }
