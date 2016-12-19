@@ -16,16 +16,6 @@ public class ClassUnderThreshold {
         return c;
     }
 
-    public int multiplication(int a, int b) {
-        int c = a * b;
-        return c;
-    }
-
-    public int division(int a, int b) {
-        int c = a / b;
-        return c;
-    }
-
     /**
      * I just add a comment here
      * @param a
@@ -63,6 +53,25 @@ public class ClassUnderThreshold {
         i = new Random().nextInt(40);
         if(i > 10) {
             System.out.println("Hello 4");
+            System.out.println("Hello 3");
+        }
+        return true;
+    }
+
+
+    public boolean foo9() {
+        int i = new Random().nextInt(40);
+        if(i > 10) {
+            System.out.println("Hello 3");
+        }
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
+        i = new Random().nextInt(40);
+        if(i > 10) {
             System.out.println("Hello 3");
         }
         return true;
