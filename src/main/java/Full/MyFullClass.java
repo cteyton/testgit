@@ -21,4 +21,9 @@ public class MyFullClass {
         int k = 0;
         return c;
     }
+
+    public int multiplication31(int a, int b) {
+        int c = a * b;
+        return c;
+    }
 }

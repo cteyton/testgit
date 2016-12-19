@@ -40,5 +40,9 @@ public class ClassUnderThreshold {
         return true;
     }
 
+    public int multiplication31(int a, int b) {
+        int c = a * b;
+        return c;
+    }
 
 }
