@@ -40,7 +40,7 @@ public class ClassTest {
     public void underThreshold() {
         int a = new ClassUnderThreshold().addition(10, 5);
         assertEquals(a, 15);
-        a = new ClassUnderThreshold().substract(10, 5);
+        a = new ClassUnderThreshold().addition(0, 5);
         assertEquals(a, 5);
     }
 
