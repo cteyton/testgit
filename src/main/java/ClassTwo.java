@@ -72,6 +72,26 @@ public class ClassTwo {
         return true;
     }
 
-
+    public boolean foo9() {
+        int i = new Random().nextInt(40);
+        if(i > 10) {
+            System.out.println("Hello 4");
+            System.out.println("Hello 3");
+        }
+        try {
+            System.out.println("Hello");
+            System.out.println("Hello 1");
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
+        i = new Random().nextInt(40);
+        if(i > 10) {
+            System.out.println("Hello 4");
+            System.out.println("Hello 3");
+        }
+        return true;
+    }
 
 }
