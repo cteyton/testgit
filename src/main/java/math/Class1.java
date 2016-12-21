@@ -10,6 +10,7 @@ public class Class1 {
         System.out.println("Hello world 4 !");
         int c = a + b;
         //Hello world
+        System.out.print(1);
         return c;
     }
 
