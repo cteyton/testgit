@@ -8,6 +8,20 @@ public class Division {
     public int addition(int a, int b) {
         System.out.println("Hello world 2 !");
         System.out.println("Hello world 4 !");
+        System.out.println("Hello world 2 !");
+        System.out.println("Hello world 3 !");
+        System.out.println("Hello world 2 !");
+        System.out.println("Hello world 3 !");
+        System.out.println("Hello world 2 !");
+        System.out.println("Hello world 3 !");
+        System.out.println("Hello world 2 !");
+        System.out.println("Hello world 3 !");
+        System.out.println("Hello world 2 !");
+        System.out.println("Hello world 3 !");
+        System.out.println("Hello world 2 !");
+        System.out.println("Hello world 3 !");
+        System.out.println("Hello world 2 !");
+        System.out.println("Hello world 3 !");
         int c = a + b;
         //Hello world
         return c;
