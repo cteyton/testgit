@@ -7,16 +7,10 @@ public class ClassFull {
     public static void main(String[] args) {
         System.out.println("Hello world !");
         System.out.println("Hello world 1 !");
-        System.out.println("Hello world 4 !");
     }
 
     public int addition(int a, int b) {
         System.out.println("Hello world 2 !");
-        System.out.println("Hello world 4 !");
-        System.out.println("Hello world 2 !");
-        System.out.println("Hello world 3 !");
-        System.out.println("Hello world 2 !");
-        System.out.println("Hello world 3 !");
         int c = a + b;
         //Hello world
         return c;
@@ -25,13 +19,11 @@ public class ClassFull {
     public int substract(int a, int b) {
         //Hello
         System.out.println("Hello world 2 !");
-        System.out.println("Hello world 3 !");
         int c = a - b;
         return c;
     }
 
     public int multiplication(int a, int b) {
-        System.out.println("Hello world 2 !");
         System.out.println("Hello world 3 !");
         //Hello
         int c = a * b;
@@ -102,39 +94,5 @@ public class ClassFull {
         return c;
     }
 
-    public int multiplication17(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
-    }
-
-    public int multiplication18(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
-    }
-
-    public int multiplication19(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
-    }
-
-    public int multiplication20(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
-    }
-
-    public int multiplication30(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
-    }
-
-    public int multiplication31(int a, int b) {
-        int c = a * b;
-        return c;
-    }
 
 }
