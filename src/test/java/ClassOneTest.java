@@ -9,7 +9,6 @@ public class ClassOneTest {
     public void testFoo1() {
         new ClassOne().foo1();
         new ClassOne().foo2();
-        new ClassOne().foo3();
         new ClassOne().hello();
     }
 
