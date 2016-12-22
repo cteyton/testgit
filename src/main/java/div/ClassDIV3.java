@@ -15,8 +15,6 @@ public class ClassDIV3 {
         try {
             System.out.println("Hello");
             System.out.println("Hello 1");
-            System.out.println("Hello 2");
-            System.out.println("Hello 3");
         }
         catch (Exception e){
             e.printStackTrace();
@@ -27,25 +25,6 @@ public class ClassDIV3 {
     public boolean foo2() {
         try {
             System.out.println("Hello");
-        }
-        catch (Exception e){
-            e.printStackTrace();
-        }
-        foo3();
-        return true;
-    }
-
-    /**
-     * I just add a comment
-     * @return
-     */
-    public boolean foo3() {
-        int i = new Random().nextInt(40);
-        if(i > 10) {
-            System.out.println("Hello 4");
-        }
-        try {
-            System.out.println("Hello 4");
         }
         catch (Exception e){
             e.printStackTrace();
