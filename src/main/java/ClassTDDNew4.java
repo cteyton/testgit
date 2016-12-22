@@ -47,7 +47,6 @@ public class ClassTDDNew4 {
 
     public boolean foo9() {
         try {
-            System.out.println("Hello");
             System.out.println("Hello 4");
         }
         catch (Exception e){
