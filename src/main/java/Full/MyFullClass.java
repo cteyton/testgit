@@ -19,7 +19,6 @@ public class MyFullClass {
     public int multiplication30(int a, int b) {
         int c = a * b;
         int k = 0;
-        System.out.println("Hello world 2 !");
         return c;
     }
 

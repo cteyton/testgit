@@ -24,6 +24,7 @@ public class UtilFoo {
     }
 
     public int multiplication30(int a, int b) {
+        System.out.println("Hello world 2 !");
         int c = a * b;
         return c;
     }
