@@ -31,4 +31,10 @@ public class UTIL01 {
         return c;
     }
 
+    public int multiplication32(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
+
 }
