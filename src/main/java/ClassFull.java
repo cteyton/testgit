@@ -95,4 +95,9 @@ public class ClassFull {
     }
 
 
+    public int multiplication15(int a, int b) {
+        int c = a * b;
+        int k = 0;
+        return c;
+    }
 }
