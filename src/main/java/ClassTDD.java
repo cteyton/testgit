@@ -11,6 +11,10 @@ public class ClassTDD {
     //Won't be convered
     public boolean foo2() {
         int i = 0;
+        System.out.println("Hello world 2 !");
+        System.out.println("Hello world 3 !");
+        System.out.println("Hello world 2 !");
+        System.out.println("Hello world 3 !");
         return true;
     }
 
@@ -33,6 +37,10 @@ public class ClassTDD {
         int i = 0;
         int j = 0;
         int k = 0;
+        System.out.println("Hello world 2 !");
+        System.out.println("Hello world 3 !");
+        System.out.println("Hello world 2 !");
+        System.out.println("Hello world 3 !");
         int l = 0;
         return true;
     }

@@ -20,6 +20,10 @@ public class ClassUncovered {
     */
     public int uncoveredUselessMethod() {
         int a = 1;
+        System.out.println("Hello world 2 !");
+        System.out.println("Hello world 3 !");
+        System.out.println("Hello world 2 !");
+        System.out.println("Hello world 3 !");
         int b = 2;
         return a + b;
     }
