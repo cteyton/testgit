@@ -14,9 +14,11 @@ public class Class10 {
         System.out.println("Hello world 3 !");
         System.out.println("Hello world 2 !");
         System.out.println("Hello world 3 !");
+        System.out.println("Hello 4");
         System.out.println("Hello world 2 !");
         System.out.println("Hello world 3 !");
         System.out.println("Hello world 2 !");
+        System.out.println("Hello 4");
         System.out.println("Hello world 3 !");
         System.out.print(1);
         int c = a + b;

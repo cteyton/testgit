@@ -11,6 +11,7 @@ public class Class1 {
         int c = a + b;
         //Hello world
         System.out.print(1);
+        System.out.println("Hello 4");
         return c;
     }
 
