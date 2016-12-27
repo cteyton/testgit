@@ -13,7 +13,6 @@ public class MyClassAbove {
         return a+b;
     }
 
-
     public int add7(int a, int b){
         return a+b;
     }
