@@ -25,4 +25,9 @@ public class ClassTDDNew {
         int k = 0;
         return c;
     }
+
+    public double power(double a, double b) {
+        double c = Math.pow(a, b);
+        return c;
+    }
 }

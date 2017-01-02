@@ -48,7 +48,6 @@ public class ClassUncovered {
             System.out.println("Hello 4");
         }
         try {
-            System.out.println("Hello");
             System.out.println("Hello 4");
         }
         catch (Exception e){
@@ -56,7 +55,6 @@ public class ClassUncovered {
         }
         i = new Random().nextInt(40);
         if(i > 10) {
-            System.out.println("Hello 4");
             System.out.println("Hello 3");
         }
         return true;
@@ -76,6 +74,11 @@ public class ClassUncovered {
 
     public int multiplication31(int a, int b) {
         int c = a * b;
+        return c;
+    }
+
+    public double power(double a, double b) {
+        double c = Math.pow(a, b);
         return c;
     }
 
