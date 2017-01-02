@@ -101,6 +101,12 @@ public class ClassFull {
         return c;
     }
 
+    /**
+     * I just add some comments
+     * @param a
+     * @param b
+     * @return
+     */
     public int substract2(int a, int b) {
         //Hello
         System.out.println("Hello world 2 !");
