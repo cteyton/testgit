@@ -119,4 +119,10 @@ public class ClassFull {
         return c;
     }
 
+    public int multiplication24(int a, int b) {
+        int c = a * b;
+        System.out.println("Hello world 2 !");
+        int k = 0;
+        return c;
+    }
 }
