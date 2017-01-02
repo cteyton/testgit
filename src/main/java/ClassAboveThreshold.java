@@ -59,6 +59,12 @@ public class ClassAboveThreshold {
         return c;
     }
 
+    /**
+     * I just add a comment here
+     * @param a
+     * @param b
+     * @return
+     */
     public int square(int a){
         return a*a;
     }
@@ -68,6 +74,12 @@ public class ClassAboveThreshold {
         return true;
     }
 
+    /**
+     * I just add a comment here
+     * @param a
+     * @param b
+     * @return
+     */
     public boolean foo4() {
         int i = new Random().nextInt(40);
         if(i > 10) {
