@@ -100,4 +100,12 @@ public class ClassFull {
         int k = 0;
         return c;
     }
+
+    public int substract2(int a, int b) {
+        //Hello
+        System.out.println("Hello world 2 !");
+        int c = a - b;
+        return c;
+    }
+
 }
