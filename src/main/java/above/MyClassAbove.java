@@ -6,14 +6,17 @@ package above;
 public class MyClassAbove {
 
     public int add0(int a, int b){
+        System.out.println("covered on not ?");
         return a+b;
     }
 
     public int add1(int a, int b){
+        System.out.println("covered on not ?");
         return a+b;
     }
 
-    public int add7(int a, int b){
+    public int add7(int a, int b) {
+        System.out.println("covered on not ?");
         return a+b;
     }
 
