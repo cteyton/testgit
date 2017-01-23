@@ -15,9 +15,6 @@ public class MyClassAbove {
         return a+b;
     }
 
-    public int add7(int a, int b) {
-        System.out.println("covered on not ?");
-        return a+b;
-    }
+   
 
 }

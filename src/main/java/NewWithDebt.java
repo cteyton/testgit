@@ -24,4 +24,9 @@ public class NewWithDebt {
         return c;
     }
 
+    public int add7(int a, int b) {
+        System.out.println("covered on not ?");
+        return a+b;
+    }
+
 }
