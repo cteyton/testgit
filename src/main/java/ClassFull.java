@@ -93,35 +93,4 @@ public class ClassFull {
         return c;
     }
 
-    /**
-     * I just add some comments
-     * @param a
-     * @param b
-     * @return
-     */
-    public int multiplication18(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
-    }
-
-    /**
-     * I just add some comments
-     * @param a
-     * @param b
-     * @return
-     */
-    public int substract2(int a, int b) {
-        //Hello
-        System.out.println("Hello world 2 !");
-        int c = a - b;
-        return c;
-    }
-
-    public int multiplication24(int a, int b) {
-        int c = a * b;
-        System.out.println("Hello world 2 !");
-        int k = 0;
-        return c;
-    }
 }

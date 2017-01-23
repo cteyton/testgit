@@ -19,6 +19,10 @@ public class ClassOne {
     public boolean foo2() {
         try {
             System.out.println("Hello");
+            System.out.println("Hello");
+            System.out.println("Hello");
+            System.out.println("Hello");
+            System.out.println("Hello");
         }
         catch (Exception e){
             e.printStackTrace();
