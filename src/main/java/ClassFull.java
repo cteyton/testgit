@@ -9,7 +9,6 @@ public class ClassFull {
     }
 
     public int addition(int a, int b) {
-        System.out.println("Hello world 2 !");
         int c = a + b;
         //Hello world
         return c;
@@ -17,13 +16,11 @@ public class ClassFull {
 
     public int substract(int a, int b) {
         //Hello
-        System.out.println("Hello world 2 !");
         int c = a - b;
         return c;
     }
 
     public int multiplication(int a, int b) {
-        System.out.println("Hello world 3 !");
         //Hello
         int c = a * b;
         return c;
@@ -93,10 +90,5 @@ public class ClassFull {
         return c;
     }
 
-    public int multiplication16(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
-    }
 
 }
