@@ -32,16 +32,6 @@ public class ClassAboveThreshold {
         return c;
     }
 
-    /**
-     * I just add a comment here
-     * @param a
-     * @param b
-     * @return
-     */
-    public int division(int a, int b) {
-        int c = a / b;
-        return c;
-    }
 
     public double power(double a, double b) {
         double c = Math.pow(a, b);

@@ -31,6 +31,10 @@ public class ClassTDDNew3 {
         return true;
     }
 
+    /**
+     *
+     * @return
+     */
     public boolean foo4() {
         try {
         }

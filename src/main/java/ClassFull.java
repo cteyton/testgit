@@ -29,6 +29,12 @@ public class ClassFull {
         return c;
     }
 
+    /**
+     *
+     * @param a
+     * @param b
+     * @return
+     */
     public int multiplication2(int a, int b) {
         int c = a * b;
         int k = 0;
