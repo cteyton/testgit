@@ -95,26 +95,6 @@ public class ClassTDD {
         return true;
     }
 
-    public boolean foo20() {
-        try {
-            System.out.println("Hello 4");
-            System.out.println("Hello 3");
-        }
-        catch (Exception e){
-            e.printStackTrace();
-        }
-        return true;
-    }
-
-    public boolean foo23() {
-        try {
-            System.out.println("Hello");
-        }
-        catch (Exception e){
-            e.printStackTrace();
-        }
-        return true;
-    }
     public int multiplication20(int a, int b) {
         int c = a * b;
         int k = 0;

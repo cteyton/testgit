@@ -75,18 +75,19 @@ public class ClassFull {
 
     public int multiplication10(int a, int b) {
         int c = a * b;
+        System.out.println("Multiplication 15");
         return c;
     }
 
     public int multiplication11(int a, int b) {
         int c = a * b;
-        int k = 0;
+        System.out.println("Multiplication 15");
         return c;
     }
 
     public int multiplication15(int a, int b) {
         int c = a * b;
-        int k = 0;
+        System.out.println("Multiplication 15");
         return c;
     }
 
