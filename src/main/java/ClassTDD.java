@@ -75,6 +75,12 @@ public class ClassTDD {
 
     public boolean foo10() {
         int i = 0;
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
         int j = 0;
         int l = 0;
         System.out.println("2");

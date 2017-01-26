@@ -18,6 +18,12 @@ public class ClassAboveThreshold {
     public int substract(int a, int b) {
         //Hello
         int c = a - b;
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
         return c;
     }
 
@@ -29,6 +35,12 @@ public class ClassAboveThreshold {
      */
     public int multiplication(int a, int b) {
         int c = a * b;
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
         return c;
     }
 

@@ -55,6 +55,12 @@ public class MyClassUnder {
 
     public int multiplication21(int a, int b) {
         int c = a * b;
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
         int k = 0;
         return c;
     }
@@ -68,6 +74,12 @@ public class MyClassUnder {
     public int multiplication30(int a, int b) {
         int c = a * b;
         int k = 0;
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
         return c;
     }
 

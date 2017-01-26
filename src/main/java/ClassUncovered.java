@@ -70,6 +70,12 @@ public class ClassUncovered {
 
     public int multiplication20(int a, int b) {
         int c = a * b;
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
         int k = 0;
         return c;
     }

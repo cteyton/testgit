@@ -13,10 +13,8 @@ public class UtilBob {
      */
     public static boolean getValue() {
         int i = new Random().nextInt(40);
-        if(i > 10) {
-            System.out.println("Hello 4");
-            System.out.println("Hello 3");
-        }
+        System.out.println("Hello 4");
+        System.out.println("Hello 3");
         return true;
     }
 
@@ -28,10 +26,8 @@ public class UtilBob {
      */
     public int addition(int a, int b) {
         int i = new Random().nextInt(40);
-        if(i > 10) {
-            System.out.println("Hello 4");
-            System.out.println("Hello 3");
-        }
+        System.out.println("Hello 4");
+        System.out.println("Hello 3");
         return a+b;
     }
 

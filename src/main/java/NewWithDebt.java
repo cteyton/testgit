@@ -19,6 +19,12 @@ public class NewWithDebt {
 
     public int multiplication31(int a, int b) {
         int c = a * b;
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
         return c;
     }
 

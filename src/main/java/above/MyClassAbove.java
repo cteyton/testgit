@@ -12,6 +12,12 @@ public class MyClassAbove {
 
     public int add1(int a, int b){
         System.out.println("covered on not ?");
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
         return a+b;
     }
 

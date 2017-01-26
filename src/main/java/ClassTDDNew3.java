@@ -28,6 +28,12 @@ public class ClassTDDNew3 {
      */
     public boolean foo3() {
         int i = 0;
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
         return true;
     }
 

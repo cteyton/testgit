@@ -12,6 +12,12 @@ public class ClassTDDNew {
 
     public double power(double a, double b) {
         double c = Math.pow(a, b);
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
         return c;
     }
 }
