@@ -39,6 +39,14 @@ public class ClassUncovered {
         String b = "";
         if(a.endsWith(b)) {
             System.out.println("OK");
+            System.out.println("Hello");
+            System.out.println("Hello 1");
+            System.out.println("Hello 4");
+        }
+        else {
+            System.out.println("Hello");
+            System.out.println("Hello 1");
+            System.out.println("Hello 4");
         }
     }
 
