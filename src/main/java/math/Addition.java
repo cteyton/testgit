@@ -11,6 +11,12 @@ public class Addition {
         System.out.println("Hello world 4 !");
         int c = a + b;
         //Hello world
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
         return c;
     }
 

@@ -12,6 +12,12 @@ public class Class1 {
         //Hello world
         System.out.print(1);
         System.out.println("Hello 4");
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
         return c;
     }
 

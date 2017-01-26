@@ -9,6 +9,12 @@ public class Class20 {
         System.out.println("Hello world 2 !");
         System.out.println("Hello world 4 !");
         int c = a + b;
+        try {
+            System.out.println("Hello 4");
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
         //Hello world
         return c;
     }
