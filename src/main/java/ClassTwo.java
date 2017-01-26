@@ -68,6 +68,7 @@ public class ClassTwo {
 
     public int multiplication20(int a, int b) {
         int c = a * b;
+        try{}catch (Exception e){}
         int k = 0;
         return c;
     }
