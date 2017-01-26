@@ -29,22 +29,6 @@ public class MyClassUnder {
         return a+b;
     }
 
-    public int add8(int a, int b){
-        return a+b;
-    }
-
-    public int add9(int a, int b){
-        return a+b;
-    }
-
-    public int add10(int a, int b) {
-        return a+b;
-    }
-
-    public int add11(int a, int b) {
-        return a+b;
-    }
-
     public int add12(int a, int b) {
         return a+b;
     }
@@ -52,19 +36,7 @@ public class MyClassUnder {
     public int add13(int a, int b) {
         return a+b;
     }
-
-    public int multiplication21(int a, int b) {
-        int c = a * b;
-        try {
-            System.out.println("Hello 4");
-        }
-        catch (Exception e){
-            e.printStackTrace();
-        }
-        int k = 0;
-        return c;
-    }
-
+    
     /**
      * Sane
      * @param a
