@@ -6,7 +6,6 @@ package math;
 public class Class20 {
 
     public int addition(int a, int b) {
-        System.out.println("Hello world 2 !");
         int c = a + b;
         try {
             System.out.println("Hello 4");
