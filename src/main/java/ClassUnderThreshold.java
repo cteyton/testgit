@@ -29,6 +29,9 @@ public class ClassUnderThreshold {
         }
         try {
             System.out.println("Hello 4");
+            System.out.println("Hello");
+            System.out.println("Hello 1");
+            System.out.println("Hello 4");
         }
         catch (Exception e){
             e.printStackTrace();
