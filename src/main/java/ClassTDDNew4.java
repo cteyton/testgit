@@ -15,6 +15,4 @@ public class ClassTDDNew4 {
         return true;
     }
 
-
-
 }
