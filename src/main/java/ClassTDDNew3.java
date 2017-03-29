@@ -21,23 +21,6 @@ public class ClassTDDNew3 {
     }
 
     /**
-     * I just add a comment here
-     * @param a
-     * @param b
-     * @return
-     */
-    public boolean foo3() {
-        int i = 0;
-        try {
-            System.out.println("Hello 4");
-        }
-        catch (Exception e){
-            e.printStackTrace();
-        }
-        return true;
-    }
-
-    /**
      *
      * @return
      */
