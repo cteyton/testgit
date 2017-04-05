@@ -18,4 +18,8 @@ public class NewClass4 {
     public void setCpt(int cpt) {
         this.cpt = cpt;
     }
+
+    public int incr(int a, int b) {
+        return a+b;
+    }
 }

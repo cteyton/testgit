@@ -18,4 +18,6 @@ public class NewClass2 {
     public void setCpt(int cpt) {
         this.cpt = cpt;
     }
+
+
 }
