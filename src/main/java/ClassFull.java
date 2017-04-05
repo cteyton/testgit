@@ -25,9 +25,7 @@ public class ClassFull {
         return c;
     }
 
-
-    
-    /**
+/*
      *
      * @param a
      * @param b
