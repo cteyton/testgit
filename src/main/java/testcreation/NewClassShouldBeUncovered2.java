@@ -3,11 +3,11 @@ package testcreation;
 /**
  * Created by cteyton on 05/04/17.
  */
-public class NewClassShouldBeUncovered {
+public class NewClassShouldBeUncovered2 {
 
     private int cpt;
 
-    public NewClassShouldBeUncovered(){
+    public NewClassShouldBeUncovered2(){
         //This is a constructor
     }
 
