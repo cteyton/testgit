@@ -11,89 +11,179 @@ public class ClassDIV2 {
         System.out.println("Hello world 1 !");
     }
 
-    public int addition(int a, int b) {
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int op1ddition(int op1, int op2) {
         System.out.println("Hello world 2 !");
-        int c = a + b;
+        int myCValue = op1 + op2;
         //Hello world
-        return c;
+        return myCValue;
     }
 
-    public int substract(int a, int b) {
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int substract(int op1, int op2) {
         //Hello
         System.out.println("Hello world 2 !");
-        int c = a - b;
-        return c;
+        int myCValue = op1 - op2;
+        return myCValue;
     }
 
-    public int multiplication(int a, int b) {
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int multiplication(int op1, int op2) {
         System.out.println("Hello world 3 !");
         //Hello
-        int c = a * b;
-        return c;
+        int myCValue = op1 * op2;
+        return myCValue;
     }
 
-    public int multiplication2(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int multiplication2(int op1, int op2) {
+        int myCValue = op1 * op2;
+        int myKValue = 0;
+        return myCValue;
     }
 
-    public int multiplication3(int a, int b) {
-        int c = a * b;
-        return c;
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int multiplication3(int op1, int op2) {
+        int myCValue = op1 * op2;
+        return myCValue;
     }
 
-    public int multiplication4(int a, int b) {
-        int c = a * b;
-        return c;
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int multiplication4(int op1, int op2) {
+        int myCValue = op1 * op2;
+        return myCValue;
     }
 
-    public int multiplication5(int a, int b) {
-        int c = a * b;
-        return c;
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int multiplication5(int op1, int op2) {
+        int myCValue = op1 * op2;
+        return myCValue;
     }
 
-    public int multiplication6(int a, int b) {
-        int c = a * b;
-        return c;
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int multiplication6(int op1, int op2) {
+        int myCValue = op1 * op2;
+        return myCValue;
     }
 
-    public int multiplication7(int a, int b) {
-        int c = a * b;
-        return c;
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int multiplication7(int op1, int op2) {
+        int myCValue = op1 * op2;
+        return myCValue;
     }
 
-    public int multiplication8(int a, int b) {
-        int c = a * b;
-        return c;
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int multiplication8(int op1, int op2) {
+        int myCValue = op1 * op2;
+        return myCValue;
     }
 
-    public int multiplication9(int a, int b) {
-        int c = a * b;
-        return c;
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int multiplication9(int op1, int op2) {
+        int myCValue = op1 * op2;
+        return myCValue;
     }
 
-    public int multiplication10(int a, int b) {
-        int c = a * b;
-        return c;
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int multiplication10(int op1, int op2) {
+        int myCValue = op1 * op2;
+        return myCValue;
     }
 
-    public int multiplication11(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int multiplication11(int op1, int op2) {
+        int myCValue = op1 * op2;
+        int myKValue = 0;
+        return myCValue;
     }
 
-    public int multiplication15(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int multiplication15(int op1, int op2) {
+        int myCValue = op1 * op2;
+        int myKValue = 0;
+        return myCValue;
     }
 
-    public int multiplication16(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
+    /**
+     * Yo
+     * @param op1 lala
+     * @param op2 lol
+     * @return trop bien
+     */
+    public int multiplication16(int op1, int op2) {
+        int myCValue = op1 * op2;
+        int myKValue = 0;
+        return myCValue;
     }
 
 
