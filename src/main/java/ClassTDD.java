@@ -4,13 +4,13 @@
 public class ClassTDD {
 
     public boolean foo1() {
-        int i = 0;
+        int iValue = 0;
         return true;
     }
 
     //Won't be convered
     public boolean foo2() {
-        int i = 0;
+        int iValue = 0;
         return true;
     }
 
@@ -19,7 +19,7 @@ public class ClassTDD {
      * @return
      */
     public boolean foo3() {
-        int i = 0;
+        int iValue = 0;
         return true;
     }
 
@@ -30,31 +30,31 @@ public class ClassTDD {
      * @return
      */
     public boolean foo6() {
-        int i = 0;
-        int j = 0;
-        int k = 0;
+        int iValue = 0;
+        int jValue = 0;
+        int kValue = 0;
         System.out.println("Hello world 2 !");
         System.out.println("Hello world 3 !");
         System.out.println("Hello world 2 !");
         System.out.println("Hello world 3 !");
-        int l = 0;
+        int lValue = 0;
         return true;
     }
 
     //Add comment but no impact on coverage
     public boolean foo7() {
-        int i = 0;
-        int j = 0;
-        int k = 0;
-        int l = 0;
+        int iValue = 0;
+        int jValue = 0;
+        int kValue = 0;
+        int lValue = 0;
         return  true;
     }
 
     public boolean foo8() {
-        int i = 0;
-        int j = 0;
-        int k = 0;
-        int l = 0;
+        int iValue = 0;
+        int jValue = 0;
+        int kValue = 0;
+        int lValue = 0;
         return true;
     }
 
@@ -63,22 +63,22 @@ public class ClassTDD {
      * @return
      */
     public boolean foo9() {
-        int i = 0;
-        int k = 0;
-        int l = 0;
+        int iValue = 0;
+        int kValue = 0;
+        int lValue = 0;
         return true;
     }
 
     public boolean foo10() {
-        int i = 0;
+        int iValue = 0;
         try {
             System.out.println("Hello 4");
         }
         catch (Exception e){
             e.printStackTrace();
         }
-        int j = 0;
-        int l = 0;
+        int jValue = 0;
+        int lValue = 0;
         System.out.println("2");
         return true;
     }
@@ -89,17 +89,17 @@ public class ClassTDD {
     }
 
     public boolean foo12() {
-        int i = 0;
-        int j = 0;
-        int k = 0;
-        int l = 0;
+        int iValue = 0;
+        int jValue = 0;
+        int kValue = 0;
+        int lValue = 0;
         System.out.println("4");
         return true;
     }
 
     public int multiplication20(int a, int b) {
         int c = a * b;
-        int k = 0;
+        int kValue = 0;
         return c;
     }
 }
