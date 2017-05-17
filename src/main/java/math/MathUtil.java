@@ -13,21 +13,21 @@ public class MathUtil {
         int i = 0;
     }
 
-    public int multiplication21(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
+    public int multiplication21(int op1, int op2) {
+        int cValue = op1 * op2;
+        int kValue = 0;
+        return cValue;
     }
 
-    public int multiplication30(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
+    public int multiplication30(int op1, int op2) {
+        int cValue = op1 * op2;
+        int kValue = 0;
+        return cValue;
     }
 
-    public int multiplication31(int a, int b) {
-        int c = a * b;
-        return c;
+    public int multiplication31(int op1, int op2) {
+        int cValue = op1 * op2;
+        return cValue;
     }
 
 }
