@@ -11,60 +11,60 @@ public class ClassDIV2 {
         System.out.println("Hello world 1 !");
     }
 
-    public int addition(int a, int b) {
+    public int addition(int op1, int op2) {
         System.out.println("Hello world 2 !");
-        int c = a + b;
+        int c = op1 + op2;
         //Hello world
         return c;
     }
 
-    public int substract(int a, int b) {
+    public int substract(int op1, int op2) {
         //Hello
         System.out.println("Hello world 2 !");
-        int c = a - b;
+        int c = op1 - op2;
         return c;
     }
 
-    public int multiplication(int a, int b) {
+    public int multiplication(int op1, int op2) {
         System.out.println("Hello world 3 !");
         //Hello
-        int c = a * b;
+        int c = op1 * op2;
         return c;
     }
 
-    public int multiplication2(int a, int b) {
-        int c = a * b;
+    public int multiplication2(int op1, int op2) {
+        int c = op1 * op2;
         int k = 0;
         return c;
     }
 
-    public int multiplication3(int a, int b) {
-        int c = a * b;
+    public int multiplication3(int op1, int op2) {
+        int c = op1 * op2;
         return c;
     }
 
-    public int multiplication4(int a, int b) {
-        int c = a * b;
+    public int multiplication4(int op1, int op2) {
+        int c = op1 * op2;
         return c;
     }
 
-    public int multiplication5(int a, int b) {
-        int c = a * b;
+    public int multiplication5(int op1, int op2) {
+        int c = op1 * op2;
         return c;
     }
 
-    public int multiplication6(int a, int b) {
-        int c = a * b;
+    public int multiplication6(int op1, int op2) {
+        int c = op1 * op2;
         return c;
     }
 
-    public int multiplication7(int a, int b) {
-        int c = a * b;
+    public int multiplication7(int op1, int op2) {
+        int c = op1 * op2;
         return c;
     }
 
-    public int multiplication8(int a, int b) {
-        int c = a * b;
+    public int multiplication8(int op1, int op2) {
+        int c = op1 * op2;
         return c;
     }
 
@@ -73,28 +73,6 @@ public class ClassDIV2 {
         return c;
     }
 
-    public int multiplication10(int a, int b) {
-        int c = a * b;
-        return c;
-    }
-
-    public int multiplication11(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
-    }
-
-    public int multiplication15(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
-    }
-
-    public int multiplication16(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
-    }
 
 
 }
