@@ -14,15 +14,15 @@ public class ClassOneTest {
 
     @Test
     public void testFull() {
-        new ClassTDD().foo1();
-        new ClassTDD().foo2();
-        new ClassTDD().foo3();
-        new  ClassTDD().foo6();
-        new  ClassTDD().foo7();
-        new  ClassTDD().foo8();
-        new  ClassTDD().foo9();
-        new  ClassTDD().foo10();
-        new  ClassTDD().foo11();
-        new  ClassTDD().foo12();
+        new ClassTD().foo1();
+        new ClassTD().foo2();
+        new ClassTD().foo3();
+        new ClassTD().foo6();
+        new ClassTD().foo7();
+        new ClassTD().foo8();
+        new ClassTD().foo9();
+        new ClassTD().foo10();
+        new ClassTD().foo11();
+        new ClassTD().foo12();
     }
 }
