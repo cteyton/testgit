@@ -5,13 +5,13 @@ public class ClassAboveThreshold {
     
     /**
      * I just add a comment here
-     * @param a
-     * @param b
+     * @param aValue the first name
+     * @param aValue the second name
      * @return the sum of a and b
     */	
-    public int addition(int a, int b) {
+    public int addition(int aValue, int bValue) {
         //Hello
-        int c = a + b;
+        int c = aValue + bValue;
         return c;
     }
 
