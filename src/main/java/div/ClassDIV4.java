@@ -5,14 +5,22 @@ package div;
  */
 public class ClassDIV4 {
 
+    /**
+     * Add doc
+     * @return
+    */	
     public boolean foo1() {
-        int i = 0;
+        int myIValue = 0;
         return true;
     }
 
-    //Won't be convered
+    
+    /**
+     * Add doc
+     * @return
+     */
     public boolean foo2() {
-        int i = 0;
+        int myIValue = 0;
         return true;
     }
 
@@ -21,7 +29,7 @@ public class ClassDIV4 {
      * @return
      */
     public boolean foo3() {
-        int i = 0;
+        int myIValue = 0;
         return true;
     }
 
@@ -32,24 +40,31 @@ public class ClassDIV4 {
      * @return
      */
     public boolean foo6() {
-        int i = 0;
-        int l = 0;
+        int myIValue = 0;
+        int myLValue = 0;
         return true;
     }
 
-    //Add comment but no impact on coverage
+    /**
+     * Add doc
+     * @return
+    */
     public boolean foo7() {
-        int i = 0;
-        int j = 0;
-        int l = 0;
+        int myIValue = 0;
+        int myJValue = 0;
+        int myKValue = 0;
         return  true;
     }
-
+	
+    /**
+     * Add doc
+     * @return
+     */
     public boolean foo8() {
-        int i = 0;
-        int j = 0;
-        int k = 0;
-        int l = 0;
+        int myIValue = 0;
+        int myJValue = 0;
+        int myKValue = 0;
+        int myLValue = 0;
         return true;
     }
 
@@ -58,34 +73,50 @@ public class ClassDIV4 {
      * @return
      */
     public boolean foo9() {
-        int i = 0;
-        int k = 0;
-        int l = 0;
+        int myIValue = 0;
+        int myKValue = 0;
+        int myLValue = 0;
         return true;
     }
 
+    /**
+     * Add doc
+     * @return
+    */
     public boolean foo10() {
-        int i = 0;
-        int j = 0;
-        int l = 0;
+        int myIValue = 0;
+        int myJValue = 0;
+        int myKValue = 0;
         System.out.println("2");
         return true;
     }
 
+   /**
+     * Add doc
+     * @return
+    */
     public boolean foo11() {
         System.out.println("3");
         return true;
     }
-
+    
+    /**
+     * Add doc
+     * @return
+    */
     public boolean foo12() {
-        int i = 0;
-        int j = 0;
-        int k = 0;
-        int l = 0;
+        int myIValue = 0;
+        int myJValue = 0;
+        int myKValue = 0;
+        int myLValue = 0;
         System.out.println("4");
         return true;
     }
 
+/**
+     * Add doc
+     * @return
+    */
     public boolean foo20() {
         try {
             System.out.println("Hello 4");
@@ -97,6 +128,10 @@ public class ClassDIV4 {
         return true;
     }
 
+/**
+     * Add doc
+     * @return
+    */
     public boolean foo23() {
         try {
             System.out.println("Hello");
@@ -106,9 +141,15 @@ public class ClassDIV4 {
         }
         return true;
     }
+
+/**
+     * Add doc
+     * @return
+    */
     public int multiplication20(int a, int b) {
-        int c = a * b;
-        int k = 0;
-        return c;
+        int myCValue = a * b;
+        int myKValue = 0;
+        return myCValue;
     }
 }
+
