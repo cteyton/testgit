@@ -2,7 +2,13 @@
  * Created by cteyton on 20/05/16.
  */
 public class ClassAboveThreshold {
-
+    
+    /**
+     * I just add a comment here
+     * @param a
+     * @param b
+     * @return the sum of a and b
+    */	
     public int addition(int a, int b) {
         //Hello
         int c = a + b;
